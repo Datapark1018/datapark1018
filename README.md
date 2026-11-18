@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## AX DATA ENGINEERING
+
+### DOMAIN : E-commerce Data Pipeline / Computer Vision
+
 <!--
 **Datapark1018/datapark1018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

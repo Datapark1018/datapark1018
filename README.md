@@ -1,103 +1,168 @@
 
-
 <div align="center">
 
-<img width="100%" alt="DATAPARK header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:334155&height=200&section=header&text=DATAPARK&fontColor=FFFFFF&fontSize=62&fontAlignY=39&desc=DATA%20ENGINEERING%20%2F%20AUTOMATION%20%2F%20APPLIED%20AI&descAlignY=64&descSize=14&animation=fadeIn" />
+<img width="100%" alt="DATAPARK | Engineering" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:17263C,100:0F766E&height=180&section=header&text=DATAPARK&fontColor=FFFFFF&fontSize=56&fontAlignY=42&desc=SYSTEMS%20%2F%20DATA%20%2F%20AUTOMATION%20%2F%20AI&descAlignY=70&descSize=15&animation=fadeIn" />
 
-<a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1100&color=64748B&center=true&vCenter=true&width=650&height=46&lines=From+raw+data+to+reliable+systems.;Build.+Automate.+Monitor.+Improve.;Curious+about+practical+AI+and+local+LLMs." alt="Typing intro" />
-</a>
+<img alt="Animated engineering tagline" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1300&color=64748B&center=true&vCenter=true&width=700&height=45&lines=Build+things+that+keep+working.;Measure.+Debug.+Refactor.+Repeat.;Make+the+boring+parts+reliable." />
 
-<a href="https://datapark.space"><img alt="Website" src="https://img.shields.io/badge/Website-datapark.space-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<img alt="Based in Seoul" src="https://img.shields.io/badge/Based%20in-Seoul%2C%20KR-334155?style=for-the-badge&logo=googlemaps&logoColor=white" />
-<img alt="Open to collaboration" src="https://img.shields.io/badge/Focus-Data%20%26%20AI-475569?style=for-the-badge&logo=github&logoColor=white" />
+<br />
+
+<a href="https://datapark.space"><img alt="Website" src="https://img.shields.io/badge/WEB-datapark.space-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://github.com/datapark1018?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/CODE-Repositories-0F766E?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img alt="Primary language" src="https://img.shields.io/badge/MAIN-Python-334155?style=for-the-badge&logo=python&logoColor=white" />
 
 </div>
 
 <br />
 
-## <img src="https://img.shields.io/badge/01-ABOUT%20ME-0F172A?style=flat-square" alt="01 About me" />
+## `> whoami`
 
-**안녕하세요. 데이터 엔지니어 DATAPARK입니다.**
+**Engineer-minded. Systems-first.**
 
-수집 스크립트를 작성하는 것에서 끝내지 않고, **데이터가 매일 안정적으로 흐르고 실제 업무에 쓰이도록 만드는 일**을 합니다. 이커머스 데이터 파이프라인, 상품 데이터 품질 관리, 사내 업무 자동화를 경험했고 최근에는 로컬 LLM과 AI 서비스 개발을 실험하고 있습니다.
+I like building the parts that make software useful in the real world: **APIs, data pipelines, automation, observability, and local AI**. Less magic, more reproducible behavior.
 
-> **COLLECT → TRANSFORM → VALIDATE → LOAD → SERVE → MONITOR**
+```text
+INPUT  →  PROCESS  →  VALIDATE  →  STORE  →  SERVE  →  OBSERVE
+```
 
-<div align="center">
-
-| **11 Platforms** | **30M / day** | **60× faster** | **800+ SKUs** |
-| :---: | :---: | :---: | :---: |
-| 국내외 이커머스 ETL | 일일 데이터 적재 규모 | ERP 입출력 개선 | 중복 상품 검출·통합 |
-
-<sub>서로 다른 실무 프로젝트에서 다룬 규모 및 개선 결과입니다.</sub>
-
-</div>
-
-<br />
-
-## <img src="https://img.shields.io/badge/02-TECH%20STACK-0F172A?style=flat-square" alt="02 Tech stack" />
+## `> tech --stack`
 
 <div align="center">
 
-<img alt="Python, FastAPI, Django, JavaScript, SQLite, PyTorch, Scikit-learn, Selenium, Git, Docker, Linux and Cloudflare" src="https://skillicons.dev/icons?i=py,fastapi,django,js,sqlite,pytorch,sklearn,selenium,git,docker,linux,cloudflare&perline=12&theme=light" />
-
-<br /><br />
-
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img alt="SQL" src="https://img.shields.io/badge/SQL-36465D?style=flat-square&logo=postgresql&logoColor=white" />
-<img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
-<img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-<img alt="Apache Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-<img alt="Ollama" src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white" />
+<img alt="Tech icons: Python, FastAPI, Django, JavaScript, PyTorch, SQLite, MySQL, Git, Linux, Ubuntu, Cloudflare" src="https://skillicons.dev/icons?i=py,fastapi,django,js,pytorch,sqlite,mysql,git,linux,ubuntu,cloudflare&perline=11&theme=dark" />
 
 </div>
 
+<details open>
+<summary><b>Backend / APIs</b></summary>
 <br />
 
-## <img src="https://img.shields.io/badge/03-SELECTED%20WORK-0F172A?style=flat-square" alt="03 Selected work" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-334155?style=flat-square)
+![HTTPX](https://img.shields.io/badge/HTTPX-334155?style=flat-square)
+![asyncio](https://img.shields.io/badge/asyncio-334155?style=flat-square)
+
+</details>
+
+<details open>
+<summary><b>Data / Pipelines</b></summary>
+<br />
+
+![SQL](https://img.shields.io/badge/SQL-334155?style=flat-square)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-334155?style=flat-square)
+
+</details>
+
+<details open>
+<summary><b>Web Automation / Collection</b></summary>
+<br />
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![curl-cffi](https://img.shields.io/badge/curl--cffi-334155?style=flat-square)
+![HTTP](https://img.shields.io/badge/HTTP-334155?style=flat-square)
+![Proxies](https://img.shields.io/badge/Proxy_Handling-334155?style=flat-square)
+
+</details>
+
+<details open>
+<summary><b>AI / Inference</b></summary>
+<br />
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-334155?style=flat-square)
+![TTS / ASR](https://img.shields.io/badge/TTS_%2F_ASR-334155?style=flat-square)
+
+</details>
+
+<details open>
+<summary><b>Runtime / Operations</b></summary>
+<br />
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-334155?style=flat-square)
+
+</details>
+
+<br />
+
+## `> ls ./engineering`
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01 &nbsp;Global E-commerce ETL</h3>
-      <img src="https://img.shields.io/badge/ETL-334155?style=flat-square" alt="ETL" />
-      <img src="https://img.shields.io/badge/REST%20API-334155?style=flat-square" alt="REST API" />
-      <img src="https://img.shields.io/badge/Operations-334155?style=flat-square" alt="Operations" />
-      <p>국내 3개, 해외 8개 플랫폼에서 들어오는 상품 데이터 수집·변환·검증·적재 및 API 연동. 일일 약 3,000만 건의 처리 흐름을 운영했습니다.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02 &nbsp;Data Quality Engineering</h3>
-      <img src="https://img.shields.io/badge/Standardization-334155?style=flat-square" alt="Standardization" />
-      <img src="https://img.shields.io/badge/Matching-334155?style=flat-square" alt="Matching" />
-      <p>국가·상품별 100여 개 품질 검증 절차를 통합 관리하고, 다국어 텍스트 유사도 분석으로 중복 SKU 약 800개를 검출·정리했습니다.</p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3>03 &nbsp;Business Process Automation</h3>
-      <img src="https://img.shields.io/badge/Python-334155?style=flat-square" alt="Python" />
-      <img src="https://img.shields.io/badge/ERP-334155?style=flat-square" alt="ERP" />
-      <img src="https://img.shields.io/badge/Reporting-334155?style=flat-square" alt="Reporting" />
-      <p>유통 ERP의 데이터 입출력 성능을 개선하고, 정기 보고서 생성과 가격 모니터링·알림 업무를 자동화했습니다.</p>
-    </td>
-    <td valign="top">
-      <h3>04 &nbsp;Applied AI</h3>
-      <img src="https://img.shields.io/badge/CLIP-334155?style=flat-square" alt="CLIP" />
-      <img src="https://img.shields.io/badge/Zero--shot-334155?style=flat-square" alt="Zero-shot" />
-      <img src="https://img.shields.io/badge/Local%20LLM-334155?style=flat-square" alt="Local LLM" />
-      <p>이미지와 상품명을 활용한 카테고리 분류·표준화 기능을 구현했습니다. 개인 프로젝트에서는 로컬 LLM 추론·서빙을 실험하고 있습니다.</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### `01 / Backend Systems`
+
+**FastAPI · REST · Streaming · Auth**
+
+Designing predictable endpoints, validating inputs, keeping state isolated, and making errors observable.
+
+</td>
+<td width="50%" valign="top">
+
+### `02 / Data Engineering`
+
+**SQL · ETL · Scheduling · Quality**
+
+Idempotent jobs, clean schemas, traceable transformations, and data checks before downstream use.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `03 / Browser Automation`
+
+**Playwright · HTTP Clients · Async I/O**
+
+Understanding browser behavior, managing concurrency, and handling flaky networks without hiding failures.
+
+</td>
+<td width="50%" valign="top">
+
+### `04 / Local AI`
+
+**Ollama · Transformers · PyTorch**
+
+Inference latency, streaming tokens, model quantization, output validation, and speech interfaces.
+
+</td>
+</tr>
 </table>
 
-<br />
+## `> cat system-design.md`
 
-## <img src="https://img.shields.io/badge/04-WHAT%20I'M%20BUILDING-0F172A?style=flat-square" alt="04 What I'm building" />
+A typical data-to-service flow I like to reason about:
 
-- <img alt="AI" src="https://img.shields.io/badge/AI-4F46E5?style=flat-square" /> **Local AI services** — 경량 LLM, 스트리밍 챗봇, TTS / ASR 실험
-- <img alt="DATA" src="https://img.shields.io/badge/DATA-0F766E?style=flat-square" /> **Reliable pipelines** — 웹 수집 안정화, 스케줄링, 이상 감지와 알림
-- <img alt="WEB" src="https://img.shields.io/badge/WEB-2563EB?style=flat-square" /> **Self-hosted tools** — FastAPI 기반 개인 서비스 및 운영 환경 개선
+```mermaid
+flowchart LR
+    A[HTTP / Browser] --> B[Ingest]
+    B --> C[Transform]
+    C --> D{Validate}
+    D -->|Pass| E[(Database)]
+    D -->|Fail| F[Review / Retry]
+    E --> G[FastAPI]
+    G --> H[Client]
+    I[Scheduler] -.-> B
+    B -.-> J[Logs / Metrics]
+    G -.-> J
+    F -.-> J
+```
 
+> **Principles:** make failures visible · prefer simple interfaces · measure before optimizing · automate the repeatable parts.
